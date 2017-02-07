@@ -7,6 +7,6 @@ public interface Control {
     public String existen();
     
     public boolean isExisten();
-    
+   
 
 }
